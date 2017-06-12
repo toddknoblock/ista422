@@ -1,0 +1,24 @@
+-- Name:  Todd J. Knoblock
+-- File:  P1-Analysis
+-- Date:  05 Jun 2017
+-- Document Title:  Requirements Analysis
+
+ID:  FR1
+TITLE:  View team roster
+DESC:  The user will be able to view the baseball team's roster.
+
+ID:  FR2
+TITLE:  View players batting statitistics
+DESC:	The user will be able to view the batting stats of each player.
+
+ID:  FR3
+TITLE:  View the team's schedule
+DESC:  The user will be able to view the team's schedule.
+
+ID:  FR4
+TITLE:  View the team's record
+DECS:  The user will be able to view the team's record.
+
+ID:  FR5
+TITLE:  View individual game results
+DESC:  The user will be able to view individual game results and players statitistics.
