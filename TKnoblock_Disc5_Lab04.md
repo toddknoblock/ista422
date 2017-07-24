@@ -23,7 +23,8 @@
 6.  In the Subscription Group section, select appropriate subscription to use
 7.  In the Resource Group section, select the "Use existing" option if a Resource Group is available, otherwise select "Create new"
 8.  Select appropriate OS
-9.  Click App Service plan/location, choose appropriate plan or "Create New" (instructions for Create New follow:)
+9.  Click App Service plan/location, choose appropriate plan or "Create New" 
+	#### Instructions for Create New:
 	* Insert a unique name in the "App Service plan" dialog box
 	* Choose a "Location" nearest you
 	* Choose an appropriate "Pricing tier" from list
