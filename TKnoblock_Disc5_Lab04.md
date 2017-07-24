@@ -11,8 +11,9 @@
 5.  Type the password for your Microsoft account
 6.  Click **Sign In**
 	a.  Note: If this is your first time logging in to the Portal, you may be prompted with a “Welcome” dialog. You can safely close this dialog and continue.
-
-### Task 2:  Create the Application Service
+	
+## Exercise 2:  Creating the Web Application Resource
+### Task 1:  Create the Application Service
 1.  In the navigation pane on the left side of the screen, click "App Services"
 2.  In the App Services menu, click "Add" in the top left
 3.  In the Web + Mobile menu, choose desired Application (see Note)
@@ -33,10 +34,32 @@
 	a.  Note:  Deployment of Web App will occur.  Check the Notifications window (Top Right, Bell icon) for status
 12. Return to Dashboard, Web App is accessible
 
-###  Task 3:  Verify Web App exists
+### Task 2:  Verify Web App exists
 1.  On Dashboard, click the newly created Web App tile
 2.  In the Overview window, locate the URL header
 3.  Click the hyperlink below Url
 4.  Verify that the Web App exists
 5.  Close the tab displaying the website
 	a.  Results:  After completing this exercise, you will have used the Azure Portal to create a Web App instance
+	
+## Exercise 3:  Stopping the Resource
+### Task 1:  Stop the Web App
+1.  On Dashboard, click the newly created Web App tile
+2.  Within App Service, click "Stop" on the menu bar
+3.  Confirm the action to stop the web app
+	a.  Note:  Check the Notifications window (Top Right, Bell icon) for status
+
+## Exercise 4:  Restarting the Resource
+### Task 1:  Restart the Web App
+1.  On Dashboard, click the newly created Web App tile
+2.  Within App Service, click "Start" on the menu bar
+	a.  Note:  Check the Notifications window (Top Right, Bell icon) for status
+
+## Exercise 5:  Deleting the Resource
+### Task 1:  Delete the Web App
+1.  On Dashboard, click the newly created Web App tile
+2.  Within App Service, click "Delete" on the menu bar
+3.  Type the App Name in dialog box
+4.  Click "Delete"
+	a.  Note:  Check the Notifications window (Top Right, Bell icon) for status
+
