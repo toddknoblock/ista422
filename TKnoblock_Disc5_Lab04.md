@@ -1,4 +1,4 @@
-# Module x:  Creating Application Services
+# Module 4:  Creating Application Services
 
 # Lab:  Creating Application Services
 
@@ -45,6 +45,7 @@
 	
 ## Exercise 3:  Stopping the Resource
 ### Task 1:  Stop the Web App
+	* Note:  Stop the Web App at the conclusion of each workday.  This will suspend any additional charges.
 1.  On Dashboard, click the newly created Web App tile
 2.  Within App Service, click "Stop" on the menu bar
 3.  Confirm the action to stop the web app
@@ -58,6 +59,7 @@
 
 ## Exercise 5:  Deleting the Resource
 ### Task 1:  Delete the Web App
+	* Note:  Perform the Deletion process at the end of the term.  Web App can be used throughout the course.
 1.  On Dashboard, click the newly created Web App tile
 2.  Within App Service, click "Delete" on the menu bar
 3.  Type the App Name in dialog box
